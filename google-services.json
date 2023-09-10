@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "50224872828",
+    "project_id": "crashlyticstestapp-4ae97",
+    "storage_bucket": "crashlyticstestapp-4ae97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50224872828:android:cd56bdf5b09ca2457938f9",
+        "android_client_info": {
+          "package_name": "com.jay.unityDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50224872828-j807on3qc01b2kb6sf0v1gafpuf3jskk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTSOs0Q3avQ2zqF9nYKPJqhgkAaeNa-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50224872828-j807on3qc01b2kb6sf0v1gafpuf3jskk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50224872828-cl0hv1r1es30q4eklde1l44dgjuce9k1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jay.unityDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
